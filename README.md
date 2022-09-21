@@ -9,6 +9,8 @@ React Native 개발자 kwonuj 입니다.
 - 💻 [NodeJS](https://velog.io/@kwonuj/series/NodeJS)
 - 💻 [GraphQL](https://velog.io/@kwonuj/series/GraphQL)
 
+- https://velog.io/@kwonuj
+
 # Contact
 - 📫 kwonuj96@gmail.com
 
