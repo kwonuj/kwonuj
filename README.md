@@ -14,4 +14,4 @@ React Native 개발자 kwonuj 입니다.
 - 📫 kwonuj96@gmail.com
 
 # Reference
-- 📫 https://reactnative.dev/
+- 📌 https://reactnative.dev/
