@@ -11,4 +11,4 @@ React Native 1년차 개발중인 kwonuj 입니다.
 - 💻 React
 
 # Contact
-- 📫 kwonuj96@gmail.com.
+- 📫 kwonuj96@gmail.com
