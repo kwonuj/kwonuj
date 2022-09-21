@@ -1,6 +1,6 @@
 
 # Hi I'm kwonuj 👋
-React Native 개발중인 kwonuj 입니다.
+React Native 개발자 kwonuj 입니다.
 
 # Study List
 - 💻 React Native
