@@ -3,7 +3,7 @@
 React Native 개발자 kwonuj 입니다.
 
 # Tech-log ( Velog )
-- 💻 [React Native](https://velog.io/@kwonuj/series/React-Native)
+- :react: [React Native](https://velog.io/@kwonuj/series/React-Native)
 - 💻 [JavaScript](https://velog.io/@kwonuj/series/JavaScript)
 - 💻 [TypeScript](https://velog.io/@kwonuj/series/TypeScript)
 - 💻 [NodeJS](https://velog.io/@kwonuj/series/NodeJS)
